@@ -1,0 +1,7 @@
+We build a simple private blockchain without transaction in it that stores data on LevelDB.
+
+levelSandbox.js: Offers us some tool to interact with the LevelDB
+
+SimpleChain.js: Provide functions to create, add, check height, validate a block, validate a chain 
+
+You can run the program by utilizing NodeJS 
